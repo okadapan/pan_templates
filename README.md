@@ -1,7 +1,10 @@
 # pan_templates
 
 イラスト素材とそれに合わせた配色のスライドがセットとなった、  
-プレゼンテーション資料用keynoteテンプレート「ぱんテンプレート」です。  
+プレゼンテーション資料用keynoteテンプレート「ぱん」です。  
+[解説記事](http://okadapan.hatenablog.com/entry/2015/11/18/125043)
+
+
 
 ## ご利用方法
 1. pan_templates.kthをダウンロード
